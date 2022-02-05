@@ -24,32 +24,237 @@ Click on the audio file after each reading to hear an audio recording of the pro
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 頭が切れる | smart, has a sharp mind |
-| 自分 | (じぶん) |
-| 下ろす | (お) ろす |
-| 疲れる | (つか) れる |
-| 映画 | えいが |
-| 監督 | かんとく, direct |
-| 裏 | うら |
-| 案内所 | あんないじょ, information desk |
-| 建てる | (た) てる, build |
-| 寝る | (ね) る |
-| 南西部 | なんせいぶ |
-| 鉄道 | てつどう, railroad |
-| 旅行 / する | りょこう, travel |
-| 出発地 | しゅっぱつち, departing point (place) |
-| サボテン | a cactus |
-| 芸術家 | げいじゅつか, artist |
-| 美術館 | びじゅつかん, museum |
-| 場所 | ばしょ, place |
-| 魅力的 / な | みりょくてき, n. attractive |
-| 窓 | まど　　　　　 　　　　　　　　　　　　　　　 |
-| 最高 | さいこう, n. the best |
-| 自然 | しぜん, nature |
-| 偶然 | ぐうぜん, coincidence |
-| 携帯 | けいたい, cell phone (lit. portable) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+頭が切れる
+{{< tdclose >}}
+{{< tdopen >}}
+smart, has a sharp mind
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+自分
+{{< tdclose >}}
+{{< tdopen >}}
+(じぶん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+下ろす
+{{< tdclose >}}
+{{< tdopen >}}
+(お) ろす
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+疲れる
+{{< tdclose >}}
+{{< tdopen >}}
+(つか) れる
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+映画
+{{< tdclose >}}
+{{< tdopen >}}
+えいが
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+監督
+{{< tdclose >}}
+{{< tdopen >}}
+かんとく, direct
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+裏
+{{< tdclose >}}
+{{< tdopen >}}
+うら
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+案内所
+{{< tdclose >}}
+{{< tdopen >}}
+あんないじょ, information desk
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+建てる
+{{< tdclose >}}
+{{< tdopen >}}
+(た) てる, build
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+寝る
+{{< tdclose >}}
+{{< tdopen >}}
+(ね) る
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+南西部
+{{< tdclose >}}
+{{< tdopen >}}
+なんせいぶ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+鉄道
+{{< tdclose >}}
+{{< tdopen >}}
+てつどう, railroad
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+旅行 / する
+{{< tdclose >}}
+{{< tdopen >}}
+りょこう, travel
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+出発地
+{{< tdclose >}}
+{{< tdopen >}}
+しゅっぱつち, departing point (place)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+サボテン
+{{< tdclose >}}
+{{< tdopen >}}
+a cactus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+芸術家
+{{< tdclose >}}
+{{< tdopen >}}
+げいじゅつか, artist
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+美術館
+{{< tdclose >}}
+{{< tdopen >}}
+びじゅつかん, museum
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+場所
+{{< tdclose >}}
+{{< tdopen >}}
+ばしょ, place
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+魅力的 / な
+{{< tdclose >}}
+{{< tdopen >}}
+みりょくてき, n. attractive
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+窓
+{{< tdclose >}}
+{{< tdopen >}}
+まど　　　　　 　　　　　　　　　　　　　　　
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+最高
+{{< tdclose >}}
+{{< tdopen >}}
+さいこう, n. the best
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+自然
+{{< tdclose >}}
+{{< tdopen >}}
+しぜん, nature
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+偶然
+{{< tdclose >}}
+{{< tdopen >}}
+ぐうぜん, coincidence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+携帯
+{{< tdclose >}}
+{{< tdopen >}}
+けいたい, cell phone (lit. portable)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[Reading 19A | [Reading 19B]({{< baseurl >}}/pages/lesson-19/reading19b) | [Supplemental]({{< baseurl >}}/pages/lesson-19/reading19_supp)\]
 

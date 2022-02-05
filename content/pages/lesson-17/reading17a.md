@@ -38,35 +38,236 @@ Click on the audio file after each reading to hear an audio recording of the pro
     
 10.  うちの子は高校を出てからすぐ大工になった。まだ四年ほどだが、次から次へ仕事が入って毎日忙しい。親バカかもしれないが、この近所では一番腕がいいんじゃないだろうか。私も主人も頭が古いから、大学を出て会社員になってもらいたいと思っていたが、このごろは鼻が高い。 ([MP3]({{< baseurl >}}/resources/lesson17a10))
     
-11.   | 先生 | 「みなさんは何になりたいですか。」 ([MP3]({{< baseurl >}}/resources/lesson17a111)) |
-    | &nbsp; |
-    | けん君 | 「前はパイロットになりたかったけど、お父さんが医者だから、やっぱり医者になると思います。」 ([MP3]({{< baseurl >}}/resources/lesson17a112)) |
-    | &nbsp; |
-    | 朝子ちゃん | 「私は花屋さんの店員になりたいです。花が好きだから。たくさん花のブーケを作りたいんです。」 ([MP3]({{< baseurl >}}/resources/lesson17a113)) |
-    | &nbsp; |
-    | たくや君 | 「ぼくは外の人より足が速いから、サッカーの選手になるんだ。マドリードのチームに入りたいです。イギリスのチームでもいいけど、、、。」 ([MP3]({{< baseurl >}}/resources/lesson17a114)) |
-    | &nbsp; |
-    | 洋子ちゃん | 「早くお母さんになりたいけど、外国に行けるから、スチュワーデスもしたいなあ。」 ([MP3]({{< baseurl >}}/resources/lesson17a115)) 
+11.   {{< tableopen >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    先生
+    {{< tdclose >}}
+    {{< tdopen >}}
+    「みなさんは何になりたいですか。」 ([MP3]({{< baseurl >}}/resources/lesson17a111))
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    けん君
+    {{< tdclose >}}
+    {{< tdopen >}}
+    「前はパイロットになりたかったけど、お父さんが医者だから、やっぱり医者になると思います。」 ([MP3]({{< baseurl >}}/resources/lesson17a112))
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    朝子ちゃん
+    {{< tdclose >}}
+    {{< tdopen >}}
+    「私は花屋さんの店員になりたいです。花が好きだから。たくさん花のブーケを作りたいんです。」 ([MP3]({{< baseurl >}}/resources/lesson17a113))
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    たくや君
+    {{< tdclose >}}
+    {{< tdopen >}}
+    「ぼくは外の人より足が速いから、サッカーの選手になるんだ。マドリードのチームに入りたいです。イギリスのチームでもいいけど、、、。」 ([MP3]({{< baseurl >}}/resources/lesson17a114))
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    洋子ちゃん
+    {{< tdclose >}}
+    {{< tdopen >}}
+    「早くお母さんになりたいけど、外国に行けるから、スチュワーデスもしたいなあ。」 ([MP3]({{< baseurl >}}/resources/lesson17a115))
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
+    
 
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 事務所 | (じむしょ) |
-| 犬 | (いぬ) |
-| 短い | (みじか) い |
-| 注文 | (ちゅうもん) |
-| 連絡 | (れんらく) |
-| 遠い | (とお) い |
-| 大工 | (だいく) |
-| 次 | から次へ, one after another |
-| 親 | バカ, fond indulgence in one's own child |
-| 近所 | (きんじょ) |
-| 腕 | (うで) |
-| 鼻 | (はな) |
-| 速い | (はや) い |
-| 選手 | (せんしゅ), a player; an athlete 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+事務所
+{{< tdclose >}}
+{{< tdopen >}}
+(じむしょ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+犬
+{{< tdclose >}}
+{{< tdopen >}}
+(いぬ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+短い
+{{< tdclose >}}
+{{< tdopen >}}
+(みじか) い
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+注文
+{{< tdclose >}}
+{{< tdopen >}}
+(ちゅうもん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+連絡
+{{< tdclose >}}
+{{< tdopen >}}
+(れんらく)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+遠い
+{{< tdclose >}}
+{{< tdopen >}}
+(とお) い
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+大工
+{{< tdclose >}}
+{{< tdopen >}}
+(だいく)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+次
+{{< tdclose >}}
+{{< tdopen >}}
+から次へ, one after another
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+親
+{{< tdclose >}}
+{{< tdopen >}}
+バカ, fond indulgence in one's own child
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+近所
+{{< tdclose >}}
+{{< tdopen >}}
+(きんじょ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+腕
+{{< tdclose >}}
+{{< tdopen >}}
+(うで)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+鼻
+{{< tdclose >}}
+{{< tdopen >}}
+(はな)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+速い
+{{< tdclose >}}
+{{< tdopen >}}
+(はや) い
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+選手
+{{< tdclose >}}
+{{< tdopen >}}
+(せんしゅ), a player; an athlete
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 \[Reading 17A | [Reading 17B]({{< baseurl >}}/pages/lesson-17/reading17b)\]

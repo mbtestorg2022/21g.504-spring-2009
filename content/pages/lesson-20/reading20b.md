@@ -21,20 +21,129 @@ Click on the audio file after each reading to hear an audio recording of the pro
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 新宿 | (しんじゅく) |
-| 空港 | (くうこう) |
-| 千葉県 | (ちばけん), Chiba Prefecture |
-| 遠い | (とお) い |
-| 荷物 | (にもつ) |
-| 箱 | (はこ) |
-| 京成線 | (けいせいせん), Keisei Line |
-| 案内所 | (あんないじょ), Information (desk) |
-| 時刻表 | (じこくひょう) |
-| 指定 | (してい) |
-| 腰 | (こし) |
-| 寝る | (ね) る 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+新宿
+{{< tdclose >}}
+{{< tdopen >}}
+(しんじゅく)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+空港
+{{< tdclose >}}
+{{< tdopen >}}
+(くうこう)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+千葉県
+{{< tdclose >}}
+{{< tdopen >}}
+(ちばけん), Chiba Prefecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+遠い
+{{< tdclose >}}
+{{< tdopen >}}
+(とお) い
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+荷物
+{{< tdclose >}}
+{{< tdopen >}}
+(にもつ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+箱
+{{< tdclose >}}
+{{< tdopen >}}
+(はこ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+京成線
+{{< tdclose >}}
+{{< tdopen >}}
+(けいせいせん), Keisei Line
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+案内所
+{{< tdclose >}}
+{{< tdopen >}}
+(あんないじょ), Information (desk)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+時刻表
+{{< tdclose >}}
+{{< tdopen >}}
+(じこくひょう)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+指定
+{{< tdclose >}}
+{{< tdopen >}}
+(してい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+腰
+{{< tdclose >}}
+{{< tdopen >}}
+(こし)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+寝る
+{{< tdclose >}}
+{{< tdopen >}}
+(ね) る
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[[Reading 20A]({{< baseurl >}}/pages/lesson-20/reading20a) | Reading 20B\]
 

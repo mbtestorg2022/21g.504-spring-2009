@@ -21,25 +21,175 @@ Click on the audio file after each reading to hear an audio recording of the pro
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 払う | (はら) う |
-| 税金 | (ぜいきん), tax |
-| 大切 | (たいせつ) |
-| 捨てる | (す) てる |
-| 無理 | (むり) |
-| 悪い | (わる) い |
-| 内容 | (ないよう) |
-| 寝る | (ね) る |
-| 辺  | (へん) |
-| 有名 | (ゆうめい) |
-| しかし  | However, but, on the other hand  {{< br >}}(more formal than でも) |
-| 値段  | (ねだん) |
-| 届く  | (とど) く |
-| 値段  | (ねだん) |
-| 出迎える  | (でむか) える |
-| 顔 | (かお) |
-| 話し方 | (はな) し (かた), way of speaking 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+払う
+{{< tdclose >}}
+{{< tdopen >}}
+(はら) う
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+税金
+{{< tdclose >}}
+{{< tdopen >}}
+(ぜいきん), tax
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+大切
+{{< tdclose >}}
+{{< tdopen >}}
+(たいせつ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+捨てる
+{{< tdclose >}}
+{{< tdopen >}}
+(す) てる
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+無理
+{{< tdclose >}}
+{{< tdopen >}}
+(むり)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+悪い
+{{< tdclose >}}
+{{< tdopen >}}
+(わる) い
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+内容
+{{< tdclose >}}
+{{< tdopen >}}
+(ないよう)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+寝る
+{{< tdclose >}}
+{{< tdopen >}}
+(ね) る
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+辺 
+{{< tdclose >}}
+{{< tdopen >}}
+(へん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+有名
+{{< tdclose >}}
+{{< tdopen >}}
+(ゆうめい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+しかし 
+{{< tdclose >}}
+{{< tdopen >}}
+However, but, on the other hand  
+(more formal than でも)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+値段 
+{{< tdclose >}}
+{{< tdopen >}}
+(ねだん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+届く 
+{{< tdclose >}}
+{{< tdopen >}}
+(とど) く
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+値段 
+{{< tdclose >}}
+{{< tdopen >}}
+(ねだん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+出迎える 
+{{< tdclose >}}
+{{< tdopen >}}
+(でむか) える
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+顔
+{{< tdclose >}}
+{{< tdopen >}}
+(かお)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+話し方
+{{< tdclose >}}
+{{< tdopen >}}
+(はな) し (かた), way of speaking
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[Reading 22A | [Reading 22B]({{< baseurl >}}/pages/lesson-22/reading22b) | [Supplemental]({{< baseurl >}}/pages/lesson-22/reading22_supp)\]
 

@@ -43,9 +43,36 @@ Compare:
 
 1.  Embedded S + かどうか分かりません "Whether or not?"
     
-    | {V/i - Adj.} direct | 知りません |
-    | {na - Adj./N} O | 忘れました |
-    | だった | 覚えていません 
+    {{< tableopen >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    {V/i - Adj.} direct
+    {{< tdclose >}}
+    {{< tdopen >}}
+    知りません
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    {na - Adj./N} O
+    {{< tdclose >}}
+    {{< tdopen >}}
+    忘れました
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    だった
+    {{< tdclose >}}
+    {{< tdopen >}}
+    覚えていません
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
     Examples:
     
@@ -161,7 +188,27 @@ Compare:
 
 The thumbnail photos below contain some of the words you know from this lesson. Click and check out the words.
 
-| ![cherry.jpg]({{< resource_file 87ede862-0e64-a3b0-4bf9-8ec9b54aaa81 >}}) | [![pine.jpg]({{< resource_file 0bef4dfa-2c70-7268-b8f0-3cec500325a7 >}})]({{< baseurl >}}/resources/pine) | ![garden.jpg]({{< resource_file b37f76b9-4ef6-52b2-919a-95a1cae0a2cb >}}) | ![hayakawa.jpg]({{< resource_file 674f2585-2f72-f06f-fd90-50e0627e5ec6 >}}) | ![river.jpg]({{< resource_file f9783049-cf2e-c6ec-0557-d6145762f19c >}}) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![cherry.jpg]({{< resource_file 87ede862-0e64-a3b0-4bf9-8ec9b54aaa81 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+[![pine.jpg]({{< resource_file 0bef4dfa-2c70-7268-b8f0-3cec500325a7 >}})]({{< baseurl >}}/resources/pine)
+{{< tdclose >}}
+{{< tdopen >}}
+![garden.jpg]({{< resource_file b37f76b9-4ef6-52b2-919a-95a1cae0a2cb >}})
+{{< tdclose >}}
+{{< tdopen >}}
+![hayakawa.jpg]({{< resource_file 674f2585-2f72-f06f-fd90-50e0627e5ec6 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+![river.jpg]({{< resource_file f9783049-cf2e-c6ec-0557-d6145762f19c >}})
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Photographic Vocabulary Aid: Main](http://web.mit.edu/21f.500/www/vocab-photo/index.html)
 

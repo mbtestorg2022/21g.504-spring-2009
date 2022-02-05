@@ -23,35 +23,264 @@ Click on the audio file after each reading to hear an audio recording of the pro
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 一月末 | いちがつまつ, the end of January |
-| 初雪 | はつゆき |
-| 降る | ふる, (snow/rain) falls |
-| 辺 | へん |
-| 届ける | とど (ける) |
-| 値段 | ねだん |
-| 人気がある | にんき, popular |
-| がんばる | give it all |
-| 選挙 | せんきょ, election |
-| 頭にくる | upsetting |
-| 総理大臣 | そうりだいじん, Prime Minister |
-| 弱い | よわ (い) |
-| 顔 | かお |
-| 洗う | あら (う) |
-| 宿題 | しゅくだい |
-| 思ったより | than I had thought |
-| 助教授 | じょきょうじゅ, assistant professor |
-| 海外 | かいがい |
-| だから | therefore |
-| 授業 | じゅぎょう |
-| 期末試験 | きまつしけん, a final examination |
-| 65 才 | 65 さい |
-| 買い物まで | even shopping |
-| 映画 | えいが |
-| 波 | なみ, wave |
-| 静か／な | しず (か), quiet |
-| 無理 | むり 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+一月末
+{{< tdclose >}}
+{{< tdopen >}}
+いちがつまつ, the end of January
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+初雪
+{{< tdclose >}}
+{{< tdopen >}}
+はつゆき
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+降る
+{{< tdclose >}}
+{{< tdopen >}}
+ふる, (snow/rain) falls
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+辺
+{{< tdclose >}}
+{{< tdopen >}}
+へん
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+届ける
+{{< tdclose >}}
+{{< tdopen >}}
+とど (ける)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+値段
+{{< tdclose >}}
+{{< tdopen >}}
+ねだん
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+人気がある
+{{< tdclose >}}
+{{< tdopen >}}
+にんき, popular
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+がんばる
+{{< tdclose >}}
+{{< tdopen >}}
+give it all
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+選挙
+{{< tdclose >}}
+{{< tdopen >}}
+せんきょ, election
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+頭にくる
+{{< tdclose >}}
+{{< tdopen >}}
+upsetting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+総理大臣
+{{< tdclose >}}
+{{< tdopen >}}
+そうりだいじん, Prime Minister
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+弱い
+{{< tdclose >}}
+{{< tdopen >}}
+よわ (い)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+顔
+{{< tdclose >}}
+{{< tdopen >}}
+かお
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+洗う
+{{< tdclose >}}
+{{< tdopen >}}
+あら (う)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+宿題
+{{< tdclose >}}
+{{< tdopen >}}
+しゅくだい
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+思ったより
+{{< tdclose >}}
+{{< tdopen >}}
+than I had thought
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+助教授
+{{< tdclose >}}
+{{< tdopen >}}
+じょきょうじゅ, assistant professor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+海外
+{{< tdclose >}}
+{{< tdopen >}}
+かいがい
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+だから
+{{< tdclose >}}
+{{< tdopen >}}
+therefore
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+授業
+{{< tdclose >}}
+{{< tdopen >}}
+じゅぎょう
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+期末試験
+{{< tdclose >}}
+{{< tdopen >}}
+きまつしけん, a final examination
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+65 才
+{{< tdclose >}}
+{{< tdopen >}}
+65 さい
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+買い物まで
+{{< tdclose >}}
+{{< tdopen >}}
+even shopping
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+映画
+{{< tdclose >}}
+{{< tdopen >}}
+えいが
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+波
+{{< tdclose >}}
+{{< tdopen >}}
+なみ, wave
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+静か／な
+{{< tdclose >}}
+{{< tdopen >}}
+しず (か), quiet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+無理
+{{< tdclose >}}
+{{< tdopen >}}
+むり
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[Reading 21A | [Reading 21B]({{< baseurl >}}/pages/lesson-21/reading21b) | [Supplemental]({{< baseurl >}}/pages/lesson-21/reading21_supp)\]
 

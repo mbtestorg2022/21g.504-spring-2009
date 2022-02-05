@@ -152,7 +152,18 @@ Combine the sentences using 後で.
 
 The thumbnail photos below contain some of the words you know from this lesson. Click and check out the words.
 
-| [![tGate1.jpg]({{< resource_file 2e136b83-936a-4c14-0f0a-7c59ac8e0ccb >}})]({{< baseurl >}}/resources/tgate1) | [![jrEastEntrance.jpg]({{< resource_file 4bee233e-0307-3239-1702-03ddb0a435e0 >}})]({{< baseurl >}}/resources/jreastentrance) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![tGate1.jpg]({{< resource_file 2e136b83-936a-4c14-0f0a-7c59ac8e0ccb >}})]({{< baseurl >}}/resources/tgate1)
+{{< tdclose >}}
+{{< tdopen >}}
+[![jrEastEntrance.jpg]({{< resource_file 4bee233e-0307-3239-1702-03ddb0a435e0 >}})]({{< baseurl >}}/resources/jreastentrance)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Photographic Vocabulary Aid: Main](http://web.mit.edu/21f.500/www/vocab-photo/index.html)
 

@@ -20,19 +20,120 @@ uid: 84faa9cb-037a-aed2-c290-4f7a2a127709
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 家内 | (かない) |
-| 箱根 | (はこね) |
-| 景色 | (けしき) |
-| この辺 | (このへん) |
-| 夏 | (なつ) |
-| 大勢 | (おおぜい) |
-| 自転車 | (じてんしゃ) |
-| 湖 | (みずうみ) |
-| 久しぶり | (ひさしぶり) |
-| 足 | (あし) |
-| 下田 | (しもだ) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+家内
+{{< tdclose >}}
+{{< tdopen >}}
+(かない)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+箱根
+{{< tdclose >}}
+{{< tdopen >}}
+(はこね)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+景色
+{{< tdclose >}}
+{{< tdopen >}}
+(けしき)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+この辺
+{{< tdclose >}}
+{{< tdopen >}}
+(このへん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+夏
+{{< tdclose >}}
+{{< tdopen >}}
+(なつ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+大勢
+{{< tdclose >}}
+{{< tdopen >}}
+(おおぜい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+自転車
+{{< tdclose >}}
+{{< tdopen >}}
+(じてんしゃ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+湖
+{{< tdclose >}}
+{{< tdopen >}}
+(みずうみ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+久しぶり
+{{< tdclose >}}
+{{< tdopen >}}
+(ひさしぶり)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+足
+{{< tdclose >}}
+{{< tdopen >}}
+(あし)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+下田
+{{< tdclose >}}
+{{< tdopen >}}
+(しもだ)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[[Card 21B]({{< baseurl >}}/pages/lesson-21/card21b) | [カードを見てみる]({{< baseurl >}}/pages/lesson-21/thecard21b_graphics) | テキストをプリントする\]
 

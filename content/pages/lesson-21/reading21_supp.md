@@ -23,16 +23,93 @@ uid: 85d9ab18-e131-cfc0-d019-e9a4353afeb4
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 時計 | (とけい) |
-| 役 | (やく) に立たない |
-| 顔 | (かお) |
-| 心配 | (しんぱい) |
-| 連絡 | (れんらく) |
-| 考える | (かんがえる), think |
-| 六十五才 | (さい) |
-| 空港 | (くうこう) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+時計
+{{< tdclose >}}
+{{< tdopen >}}
+(とけい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+役
+{{< tdclose >}}
+{{< tdopen >}}
+(やく) に立たない
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+顔
+{{< tdclose >}}
+{{< tdopen >}}
+(かお)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+心配
+{{< tdclose >}}
+{{< tdopen >}}
+(しんぱい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+連絡
+{{< tdclose >}}
+{{< tdopen >}}
+(れんらく)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+考える
+{{< tdclose >}}
+{{< tdopen >}}
+(かんがえる), think
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+六十五才
+{{< tdclose >}}
+{{< tdopen >}}
+(さい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+空港
+{{< tdclose >}}
+{{< tdopen >}}
+(くうこう)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[[Reading 21A]({{< baseurl >}}/pages/lesson-21/reading21a) | [Reading 21B]({{< baseurl >}}/pages/lesson-21/reading21b) | Supplemental\]
 

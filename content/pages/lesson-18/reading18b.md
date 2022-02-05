@@ -22,11 +22,48 @@ Click on the audio file after each reading to hear a recording of the pronunciat
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 政治関係 | (せいじかんけい) |
-| ご一緒 | (ごいっしょ) |
-| 出張 | (しゅっちょう) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+政治関係
+{{< tdclose >}}
+{{< tdopen >}}
+(せいじかんけい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ご一緒
+{{< tdclose >}}
+{{< tdopen >}}
+(ごいっしょ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+出張
+{{< tdclose >}}
+{{< tdopen >}}
+(しゅっちょう)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[[Reading 18A]({{< baseurl >}}/pages/lesson-18/reading18a) | Reading 18B | [Supplemental]({{< baseurl >}}/pages/lesson-18/reading18_supp)\]
 

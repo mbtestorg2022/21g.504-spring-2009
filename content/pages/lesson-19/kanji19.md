@@ -345,12 +345,57 @@ A symbol to indicate "pluralism".
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 当日 | (とうじつ), the very day |
-| 東口 | (ひがしぐち), east entrance |
-| 時々 | (ときどき), sometimes |
-| お金 | (おかね), money 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+当日
+{{< tdclose >}}
+{{< tdopen >}}
+(とうじつ), the very day
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+東口
+{{< tdclose >}}
+{{< tdopen >}}
+(ひがしぐち), east entrance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+時々
+{{< tdclose >}}
+{{< tdopen >}}
+(ときどき), sometimes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+お金
+{{< tdclose >}}
+{{< tdopen >}}
+(おかね), money
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[Quizzes _(JavaScript required)_: [Meaning](/ans7870/21f/21f.504/s09/lesson19/kanji19-mean/kq19meanq1.html) (30 questions) | [Reading](/ans7870/21f/21f.504/s09/lesson19/kanji19-read/kq19readq1.html) (20 questions)\]
 

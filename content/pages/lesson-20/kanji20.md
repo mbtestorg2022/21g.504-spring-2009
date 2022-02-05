@@ -327,15 +327,84 @@ Person イ and solid 固 (like an aged 古 lump of cheese 口).
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 都内 | (とない), within the city of Tokyo |
-| 少ない | (すくない), few; little |
-| 変える | (かえる), change something |
-| 間に合う | (まにあう), be on time |
-| 学会 | (がっかい), academic organization |
-| 話 | (はなし), story; talk |
-| 通う | (かよう), commute 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+都内
+{{< tdclose >}}
+{{< tdopen >}}
+(とない), within the city of Tokyo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+少ない
+{{< tdclose >}}
+{{< tdopen >}}
+(すくない), few; little
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+変える
+{{< tdclose >}}
+{{< tdopen >}}
+(かえる), change something
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+間に合う
+{{< tdclose >}}
+{{< tdopen >}}
+(まにあう), be on time
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+学会
+{{< tdclose >}}
+{{< tdopen >}}
+(がっかい), academic organization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+話
+{{< tdclose >}}
+{{< tdopen >}}
+(はなし), story; talk
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+通う
+{{< tdclose >}}
+{{< tdopen >}}
+(かよう), commute
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[Quizzes _(JavaScript required_): [Meaning](/ans7870/21f/21f.504/s09/lesson20/kanji20-mean/kq20meanq1.html) (27 questions) | [Reading](/ans7870/21f/21f.504/s09/lesson20/kanji20-read/kq20readq1.html) (23 questions)\]
 

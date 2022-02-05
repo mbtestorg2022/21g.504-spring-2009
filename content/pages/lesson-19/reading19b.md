@@ -26,9 +26,30 @@ Click on the audio file after each reading to hear an audio recording of the pro
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 迎える | (むか) える 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+迎える
+{{< tdclose >}}
+{{< tdopen >}}
+(むか) える
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[[Reading 19A]({{< baseurl >}}/pages/lesson-19/reading19a) | Reading 19B | [Supplemental]({{< baseurl >}}/pages/lesson-19/reading19_supp)\]
 

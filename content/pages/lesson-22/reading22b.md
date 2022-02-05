@@ -32,25 +32,176 @@ Click on the audio file after each reading to hear an audio recording of the pro
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 相談 | (そうだん) |
-| しめ切り | deadline |
-| 映画 | (えいが) |
-| 港 | (みなと) |
-| 運ぶ | (はこ) ぶ |
-| 旅行代理店 | (りょこうだいりてん),  {{< br >}}travel agency |
-| 値段 | (ねだん) |
-| 景色 | (けしき) |
-| 有名 | (ゆうめい) |
-| 腹 | (はら) |
-| 寝る | (ね) る |
-| 世界中 | (せかいじゅう), all around  {{< br >}}the world |
-| 空 | (そら), sky |
-| 屋 | (や) |
-| 練習 | (れんしゅう) |
-| 絶対 | (ぜったい) |
-| 渡す | (わた) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+相談
+{{< tdclose >}}
+{{< tdopen >}}
+(そうだん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+しめ切り
+{{< tdclose >}}
+{{< tdopen >}}
+deadline
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+映画
+{{< tdclose >}}
+{{< tdopen >}}
+(えいが)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+港
+{{< tdclose >}}
+{{< tdopen >}}
+(みなと)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+運ぶ
+{{< tdclose >}}
+{{< tdopen >}}
+(はこ) ぶ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+旅行代理店
+{{< tdclose >}}
+{{< tdopen >}}
+(りょこうだいりてん),  
+travel agency
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+値段
+{{< tdclose >}}
+{{< tdopen >}}
+(ねだん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+景色
+{{< tdclose >}}
+{{< tdopen >}}
+(けしき)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+有名
+{{< tdclose >}}
+{{< tdopen >}}
+(ゆうめい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+腹
+{{< tdclose >}}
+{{< tdopen >}}
+(はら)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+寝る
+{{< tdclose >}}
+{{< tdopen >}}
+(ね) る
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+世界中
+{{< tdclose >}}
+{{< tdopen >}}
+(せかいじゅう), all around  
+the world
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+空
+{{< tdclose >}}
+{{< tdopen >}}
+(そら), sky
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+屋
+{{< tdclose >}}
+{{< tdopen >}}
+(や)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+練習
+{{< tdclose >}}
+{{< tdopen >}}
+(れんしゅう)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+絶対
+{{< tdclose >}}
+{{< tdopen >}}
+(ぜったい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+渡す
+{{< tdclose >}}
+{{< tdopen >}}
+(わた)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[[Reading 22A]({{< baseurl >}}/pages/lesson-22/reading22a) | Reading 22B | [Supplemental]({{< baseurl >}}/pages/lesson-22/reading22_supp)\]
 

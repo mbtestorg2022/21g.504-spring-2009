@@ -181,7 +181,21 @@ Paraphrase the expressions in the parentheses using てみる.
 
 The thumbnail photos below contain some of the words you know from this lesson. Click and check out the words.
 
-| [![shinjukuStation1.jpg]({{< resource_file 31b9c6fc-a8fd-8584-ed07-6782ce345724 >}})]({{< baseurl >}}/resources/shinjukustation1) | [![tMachine1.jpg]({{< resource_file 8291c438-e4b3-9e36-ab0c-bfdfb3999a6e >}})]({{< baseurl >}}/resources/tmachine1) | [![tWindow4.jpg]({{< resource_file 91275212-1bea-2f30-0556-777f0b608b85 >}})]({{< baseurl >}}/resources/twindow4) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![shinjukuStation1.jpg]({{< resource_file 31b9c6fc-a8fd-8584-ed07-6782ce345724 >}})]({{< baseurl >}}/resources/shinjukustation1)
+{{< tdclose >}}
+{{< tdopen >}}
+[![tMachine1.jpg]({{< resource_file 8291c438-e4b3-9e36-ab0c-bfdfb3999a6e >}})]({{< baseurl >}}/resources/tmachine1)
+{{< tdclose >}}
+{{< tdopen >}}
+[![tWindow4.jpg]({{< resource_file 91275212-1bea-2f30-0556-777f0b608b85 >}})]({{< baseurl >}}/resources/twindow4)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Photographic Vocabulary Aid: Main](http://web.mit.edu/21f.500/www/vocab-photo/index.html)
 

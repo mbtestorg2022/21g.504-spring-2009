@@ -63,15 +63,84 @@ There are two oral interview exams, three Lesson Quizzes (25-30 minute long) and
 
 ### Evaluation Method
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| Daily grade (CC performance and Drills) | 25%\* |
-| Lesson quizzes (x3) | 20%\*\* |
-| Oral interviews (x2) | 15% |
-| Hour exam | 15% |
-| Vocabulary and Kanji quizzes | 10%\*\*\* |
-| Homework | 10% |
-| Class participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily grade (CC performance and Drills)
+{{< tdclose >}}
+{{< tdopen >}}
+25%\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lesson quizzes (x3)
+{{< tdclose >}}
+{{< tdopen >}}
+20%\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral interviews (x2)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hour exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vocabulary and Kanji quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%\*\*\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \* The 4 lowest daily grades will be dropped during the term.  
 \*\* The lowest LQ score will be dropped at the end of the term.  

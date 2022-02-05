@@ -318,15 +318,84 @@ When you are at a shrine 社, you have to show your thanks to God.
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 口 | (くち), mouth |
-| 木 | (き), tree |
-| 出す | (だす), to take out |
-| 茶の間 | (ちゃのま), living room |
-| 家の外 | (うち(/いえ)のそと), outside the house |
-| 近所 | (きんじょ), neighborhood |
-| 部屋 | (へや), room 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+口
+{{< tdclose >}}
+{{< tdopen >}}
+(くち), mouth
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+木
+{{< tdclose >}}
+{{< tdopen >}}
+(き), tree
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+出す
+{{< tdclose >}}
+{{< tdopen >}}
+(だす), to take out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+茶の間
+{{< tdclose >}}
+{{< tdopen >}}
+(ちゃのま), living room
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+家の外
+{{< tdclose >}}
+{{< tdopen >}}
+(うち(/いえ)のそと), outside the house
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+近所
+{{< tdclose >}}
+{{< tdopen >}}
+(きんじょ), neighborhood
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+部屋
+{{< tdclose >}}
+{{< tdopen >}}
+(へや), room
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 \[Quizzes _(JavaScript required)_: [Meaning](/ans7870/21f/21f.504/s09/lesson17/kanji17-mean/kq17meanq1.html) (16 questions) | [Reading](/ans7870/21f/21f.504/s09/lesson17/kanji17-read/kq17readq1.html) (20 questions) | [Character Recognition](/ans7870/21f/21f.504/s09/lesson17/kanji17-recog/kq17recogq1.html) (14 questions)\]

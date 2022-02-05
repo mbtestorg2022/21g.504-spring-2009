@@ -111,10 +111,57 @@ Add しか to the elements in the brackets.
 
 Connection rules: {Sentence (Direct Form)} そうだ
 
-| V. | {飲む/飲んだ} | そうだ |
-| い—Adj. | {安い/安かった} | そうだ |
-| な—N. | {不便だ/不便だった} | そうだ |
-| N. | {一泊だ/一泊だった} | そうだ 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+V.
+{{< tdclose >}}
+{{< tdopen >}}
+{飲む/飲んだ}
+{{< tdclose >}}
+{{< tdopen >}}
+そうだ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+い—Adj.
+{{< tdclose >}}
+{{< tdopen >}}
+{安い/安かった}
+{{< tdclose >}}
+{{< tdopen >}}
+そうだ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+な—N.
+{{< tdclose >}}
+{{< tdopen >}}
+{不便だ/不便だった}
+{{< tdclose >}}
+{{< tdopen >}}
+そうだ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+N.
+{{< tdclose >}}
+{{< tdopen >}}
+{一泊だ/一泊だった}
+{{< tdclose >}}
+{{< tdopen >}}
+そうだ
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 れい
 

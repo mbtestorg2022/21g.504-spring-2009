@@ -343,12 +343,57 @@ Katakana ム and ロ.
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 近づく | (ちかづく), to approach |
-| 大水 | (おおみず), flood |
-| 全く | (まったく), entirely |
-| 雨が降る | (あめがふる), it rains 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+近づく
+{{< tdclose >}}
+{{< tdopen >}}
+(ちかづく), to approach
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+大水
+{{< tdclose >}}
+{{< tdopen >}}
+(おおみず), flood
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+全く
+{{< tdclose >}}
+{{< tdopen >}}
+(まったく), entirely
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+雨が降る
+{{< tdclose >}}
+{{< tdopen >}}
+(あめがふる), it rains
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[Quizzes (_JavaScript required_): [Meaning](/ans7870/21f/21f.504/s09/lesson22/kanji22-mean/kq22meanq1.html) (27 questions) | [Reading](/ans7870/21f/21f.504/s09/lesson22/kanji22-read/kq22readq1.html) (17 questions)\]
 

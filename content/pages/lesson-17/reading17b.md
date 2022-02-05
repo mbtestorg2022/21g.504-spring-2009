@@ -26,29 +26,210 @@ Click on the audio file to hear an audio recording of the pronunciation.
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 雪 | (ゆき) |
-| 風邪を引く | (かぜ) を (ひ) く |
-| 実は | (じつ) は |
-| 引っ越し | (ひ) っ (こ) し, moving |
-| 便利 | (べんり) |
-| 腰 | (こし) |
-| 運転 | (うんてん) |
-| 助かる | (たす) かる |
-| 札幌 | (さっぽろ) |
-| 台所 | (だいどころ) |
-| お風呂 | お (ふろ) |
-| 部屋 | (へや) |
-| 家具 | (かぐ) |
-| 細かい | (こま) かい |
-| 箱 | (はこ) |
-| 犬 | (いぬ) |
-| 片付ける | (かたづ) ける |
-| 奥さん | (おく) さん |
-| 決める | (決める) |
-| 悪い | (わる) い |
-| 体に気をつけて | take care of yourself (lit. "attach attention to your body"), used when for example, the weather is expected to be cold, when the recipient is not well, etc. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+雪
+{{< tdclose >}}
+{{< tdopen >}}
+(ゆき)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+風邪を引く
+{{< tdclose >}}
+{{< tdopen >}}
+(かぜ) を (ひ) く
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+実は
+{{< tdclose >}}
+{{< tdopen >}}
+(じつ) は
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+引っ越し
+{{< tdclose >}}
+{{< tdopen >}}
+(ひ) っ (こ) し, moving
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+便利
+{{< tdclose >}}
+{{< tdopen >}}
+(べんり)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+腰
+{{< tdclose >}}
+{{< tdopen >}}
+(こし)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+運転
+{{< tdclose >}}
+{{< tdopen >}}
+(うんてん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+助かる
+{{< tdclose >}}
+{{< tdopen >}}
+(たす) かる
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+札幌
+{{< tdclose >}}
+{{< tdopen >}}
+(さっぽろ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+台所
+{{< tdclose >}}
+{{< tdopen >}}
+(だいどころ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+お風呂
+{{< tdclose >}}
+{{< tdopen >}}
+お (ふろ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+部屋
+{{< tdclose >}}
+{{< tdopen >}}
+(へや)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+家具
+{{< tdclose >}}
+{{< tdopen >}}
+(かぐ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+細かい
+{{< tdclose >}}
+{{< tdopen >}}
+(こま) かい
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+箱
+{{< tdclose >}}
+{{< tdopen >}}
+(はこ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+犬
+{{< tdclose >}}
+{{< tdopen >}}
+(いぬ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+片付ける
+{{< tdclose >}}
+{{< tdopen >}}
+(かたづ) ける
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+奥さん
+{{< tdclose >}}
+{{< tdopen >}}
+(おく) さん
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+決める
+{{< tdclose >}}
+{{< tdopen >}}
+(決める)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+悪い
+{{< tdclose >}}
+{{< tdopen >}}
+(わる) い
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+体に気をつけて
+{{< tdclose >}}
+{{< tdopen >}}
+take care of yourself (lit. "attach attention to your body"), used when for example, the weather is expected to be cold, when the recipient is not well, etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 \[[Reading 17A]({{< baseurl >}}/pages/lesson-17/reading17a) | Reading 17B\]

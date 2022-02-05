@@ -28,51 +28,409 @@ Click on the audio file after each reading to hear an audio recording of the pro
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 箱 | はこ |
-| 建てる | た (てる)　 |
-| 夜 | よる |
-| 遅くなる | おそ (くなる) |
-| 泊まる | と (まる) |
-| NHK | Nippon Hoso Kyokai, Japan Broadcasting Corporation |
-| 番組 | ばんぐみ |
-| 中学生 | ちゅうがくせい, junior high school students |
-| 考える | かんが (える), think |
-| 気がする | have a feeling that... |
-| 息子 | むすこ　 |
-| 夏 | なつ |
-| 荷物 | にもつ |
-| 預ける | あず (ける) |
-| 出かける | go out |
-| 戻る | もど (る) |
-| 運動 | うんどう, exercise |
-| 医院 | いいん, clinic |
-| 冷蔵庫 | れいぞうこ, refrigerator |
-| 三割引 | さんわりびき, 30% off |
-| お嬢さん | (お) じょう (さん) |
-| 結婚 | けっこん |
-| だから | therefore |
-| 役 | やく |
-| 地震 | じしん |
-| 数分 | すうふん, several minutes |
-| 信じる | しん (じる), believe |
-| 戦争 | せんそう, war |
-| 水道 | すいどう, water faucet |
-| 生活 | せいかつ, life |
-| 平均寿命 | へいきんじゅみょう, average span of life |
-| 意味 | いみ |
-| 老人ホーム | ろうじんホーム, nursing home |
-| 各 | かく, each |
-| 市町村 | しちょうそん, city, town, and village |
-| X以上 | いじょう, more than X, above X |
-| 市役所 | しやくしょ, City Hall |
-| 運賃 | うんちん, (passenger) fare |
-| 負担 | ふたん, burden |
-| 肩 | かた, shoulder |
-| 責任 | せきにん, responsibility |
-| 年々 | ねんねん |
-| 年金 | ねんきん, pension   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+箱
+{{< tdclose >}}
+{{< tdopen >}}
+はこ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+建てる
+{{< tdclose >}}
+{{< tdopen >}}
+た (てる)　
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+夜
+{{< tdclose >}}
+{{< tdopen >}}
+よる
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+遅くなる
+{{< tdclose >}}
+{{< tdopen >}}
+おそ (くなる)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+泊まる
+{{< tdclose >}}
+{{< tdopen >}}
+と (まる)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+NHK
+{{< tdclose >}}
+{{< tdopen >}}
+Nippon Hoso Kyokai, Japan Broadcasting Corporation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+番組
+{{< tdclose >}}
+{{< tdopen >}}
+ばんぐみ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+中学生
+{{< tdclose >}}
+{{< tdopen >}}
+ちゅうがくせい, junior high school students
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+考える
+{{< tdclose >}}
+{{< tdopen >}}
+かんが (える), think
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+気がする
+{{< tdclose >}}
+{{< tdopen >}}
+have a feeling that...
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+息子
+{{< tdclose >}}
+{{< tdopen >}}
+むすこ　
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+夏
+{{< tdclose >}}
+{{< tdopen >}}
+なつ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+荷物
+{{< tdclose >}}
+{{< tdopen >}}
+にもつ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+預ける
+{{< tdclose >}}
+{{< tdopen >}}
+あず (ける)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+出かける
+{{< tdclose >}}
+{{< tdopen >}}
+go out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+戻る
+{{< tdclose >}}
+{{< tdopen >}}
+もど (る)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+運動
+{{< tdclose >}}
+{{< tdopen >}}
+うんどう, exercise
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+医院
+{{< tdclose >}}
+{{< tdopen >}}
+いいん, clinic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+冷蔵庫
+{{< tdclose >}}
+{{< tdopen >}}
+れいぞうこ, refrigerator
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+三割引
+{{< tdclose >}}
+{{< tdopen >}}
+さんわりびき, 30% off
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+お嬢さん
+{{< tdclose >}}
+{{< tdopen >}}
+(お) じょう (さん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+結婚
+{{< tdclose >}}
+{{< tdopen >}}
+けっこん
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+だから
+{{< tdclose >}}
+{{< tdopen >}}
+therefore
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+役
+{{< tdclose >}}
+{{< tdopen >}}
+やく
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+地震
+{{< tdclose >}}
+{{< tdopen >}}
+じしん
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+数分
+{{< tdclose >}}
+{{< tdopen >}}
+すうふん, several minutes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+信じる
+{{< tdclose >}}
+{{< tdopen >}}
+しん (じる), believe
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+戦争
+{{< tdclose >}}
+{{< tdopen >}}
+せんそう, war
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+水道
+{{< tdclose >}}
+{{< tdopen >}}
+すいどう, water faucet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+生活
+{{< tdclose >}}
+{{< tdopen >}}
+せいかつ, life
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+平均寿命
+{{< tdclose >}}
+{{< tdopen >}}
+へいきんじゅみょう, average span of life
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+意味
+{{< tdclose >}}
+{{< tdopen >}}
+いみ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+老人ホーム
+{{< tdclose >}}
+{{< tdopen >}}
+ろうじんホーム, nursing home
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+各
+{{< tdclose >}}
+{{< tdopen >}}
+かく, each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+市町村
+{{< tdclose >}}
+{{< tdopen >}}
+しちょうそん, city, town, and village
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X以上
+{{< tdclose >}}
+{{< tdopen >}}
+いじょう, more than X, above X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+市役所
+{{< tdclose >}}
+{{< tdopen >}}
+しやくしょ, City Hall
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+運賃
+{{< tdclose >}}
+{{< tdopen >}}
+うんちん, (passenger) fare
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+負担
+{{< tdclose >}}
+{{< tdopen >}}
+ふたん, burden
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+肩
+{{< tdclose >}}
+{{< tdopen >}}
+かた, shoulder
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+責任
+{{< tdclose >}}
+{{< tdopen >}}
+せきにん, responsibility
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+年々
+{{< tdclose >}}
+{{< tdopen >}}
+ねんねん
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+年金
+{{< tdclose >}}
+{{< tdopen >}}
+ねんきん, pension
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
   
 
 \[Reading 20A | [Reading 20B]({{< baseurl >}}/pages/lesson-20/reading20b)\]

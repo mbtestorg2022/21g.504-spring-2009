@@ -29,28 +29,203 @@ Click on the audio file after each reading to hear an audio recording of the pro
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 遊んだ | (あそ) んだ, play |
-| 遅い | (おそ) い |
-| 気持ち | (きも) ち |
-| 喜ぶ | (よろこ) ぶ |
-| 悪い | (わる) い |
-| 留守 | るす　 |
-| 冊 | さつ |
-| 注文 | ちゅうもん |
-| 髪の毛 | (かみ) の (け), hair |
-| 自由 | じゆう, freedom |
-| 黒船 | くろふね |
-| 貿易 | ぼうえき |
-| 長崎 | ながさき |
-| 1平方メートル | ヘいほう, 1 meter square |
-| 人工 | じんこう, artificial |
-| 普通 | ふつう, ordinary, common |
-| 金持ち | (かねも) ち, a  {{< br >}}wealthy person |
-| 商人 | しょうにん, merchant |
-| 大名 | だいみょう, daimyo,  {{< br >}}a feudal lord |
-| Xなど | X, etc. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+遊んだ
+{{< tdclose >}}
+{{< tdopen >}}
+(あそ) んだ, play
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+遅い
+{{< tdclose >}}
+{{< tdopen >}}
+(おそ) い
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+気持ち
+{{< tdclose >}}
+{{< tdopen >}}
+(きも) ち
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+喜ぶ
+{{< tdclose >}}
+{{< tdopen >}}
+(よろこ) ぶ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+悪い
+{{< tdclose >}}
+{{< tdopen >}}
+(わる) い
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+留守
+{{< tdclose >}}
+{{< tdopen >}}
+るす　
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+冊
+{{< tdclose >}}
+{{< tdopen >}}
+さつ
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+注文
+{{< tdclose >}}
+{{< tdopen >}}
+ちゅうもん
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+髪の毛
+{{< tdclose >}}
+{{< tdopen >}}
+(かみ) の (け), hair
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+自由
+{{< tdclose >}}
+{{< tdopen >}}
+じゆう, freedom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+黒船
+{{< tdclose >}}
+{{< tdopen >}}
+くろふね
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+貿易
+{{< tdclose >}}
+{{< tdopen >}}
+ぼうえき
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+長崎
+{{< tdclose >}}
+{{< tdopen >}}
+ながさき
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1平方メートル
+{{< tdclose >}}
+{{< tdopen >}}
+ヘいほう, 1 meter square
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+人工
+{{< tdclose >}}
+{{< tdopen >}}
+じんこう, artificial
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+普通
+{{< tdclose >}}
+{{< tdopen >}}
+ふつう, ordinary, common
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+金持ち
+{{< tdclose >}}
+{{< tdopen >}}
+(かねも) ち, a  
+wealthy person
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+商人
+{{< tdclose >}}
+{{< tdopen >}}
+しょうにん, merchant
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+大名
+{{< tdclose >}}
+{{< tdopen >}}
+だいみょう, daimyo,  
+a feudal lord
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Xなど
+{{< tdclose >}}
+{{< tdopen >}}
+X, etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[Reading 18A | [Reading 18B]({{< baseurl >}}/pages/lesson-18/reading18b) | [Supplemental]({{< baseurl >}}/pages/lesson-18/reading18_supp)\]
 

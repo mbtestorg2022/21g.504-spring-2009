@@ -320,10 +320,39 @@ The water radical on the left and a snake 也. \[地 (チ) "ground"\]
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 先日 | (せんじつ), the other day |
-| 楽にする | (らくにする), make comfortable 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+先日
+{{< tdclose >}}
+{{< tdopen >}}
+(せんじつ), the other day
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+楽にする
+{{< tdclose >}}
+{{< tdopen >}}
+(らくにする), make comfortable
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
   

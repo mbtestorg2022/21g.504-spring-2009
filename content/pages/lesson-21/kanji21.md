@@ -331,15 +331,84 @@ Everybody 皆 goes up and down these stairs.
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 多分 | (たぶん), probably |
-| 洋間 | (ようま), Western-style room |
-| 気持ち | (きもち), feelings |
-| 回す | (まわす), transfer |
-| 回る | (まわる), go around |
-| 気が付く | (きがつく), notice |
-| 気を付ける | (きをつける), pay attention 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+多分
+{{< tdclose >}}
+{{< tdopen >}}
+(たぶん), probably
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+洋間
+{{< tdclose >}}
+{{< tdopen >}}
+(ようま), Western-style room
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+気持ち
+{{< tdclose >}}
+{{< tdopen >}}
+(きもち), feelings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+回す
+{{< tdclose >}}
+{{< tdopen >}}
+(まわす), transfer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+回る
+{{< tdclose >}}
+{{< tdopen >}}
+(まわる), go around
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+気が付く
+{{< tdclose >}}
+{{< tdopen >}}
+(きがつく), notice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+気を付ける
+{{< tdclose >}}
+{{< tdopen >}}
+(きをつける), pay attention
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[Quizzes _(JavaScript required)_: [Meaning](/ans7870/21f/21f.504/s09/lesson21/kanji21-mean/kq21meanq1.html) (33 questions) | [Reading](/ans7870/21f/21f.504/s09/lesson21/kanji21-read/kq21readq1.html) (19 questions)\]
 

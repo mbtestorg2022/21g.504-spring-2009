@@ -19,10 +19,45 @@ uid: f332dbd0-747e-510a-9734-5f115d7dcccb
     
     Formation rules:
     
-    | V. |  使っても/使わなくても |
-    | i-Adj. |  高くても/高くなくても |
-    | na-Adj. |  不便でも/ 不便じゃなくても(or 不便でなくても) |
-    | N. |  学生でも/ 学生じゃなくても(or 学生でなくても) 
+    {{< tableopen >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    V.
+    {{< tdclose >}}
+    {{< tdopen >}}
+     使っても/使わなくても
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    i-Adj.
+    {{< tdclose >}}
+    {{< tdopen >}}
+     高くても/高くなくても
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    na-Adj.
+    {{< tdclose >}}
+    {{< tdopen >}}
+     不便でも/ 不便じゃなくても(or 不便でなくても)
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    N.
+    {{< tdclose >}}
+    {{< tdopen >}}
+     学生でも/ 学生じゃなくても(or 学生でなくても)
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
     れい
     

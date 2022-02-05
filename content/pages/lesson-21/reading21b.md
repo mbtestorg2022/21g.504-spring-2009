@@ -15,12 +15,57 @@ Click on the audio file after each reading to hear an audio recording of the pro
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 箱根 | (はこね) name of a city |
-| 富士山 | (ふじさん) Mt. Fuji |
-| 温泉 | (おんせん) hot spring |
-| 富士見屋 | (ふじみや) name of ryokan 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+箱根
+{{< tdclose >}}
+{{< tdopen >}}
+(はこね) name of a city
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+富士山
+{{< tdclose >}}
+{{< tdopen >}}
+(ふじさん) Mt. Fuji
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+温泉
+{{< tdclose >}}
+{{< tdopen >}}
+(おんせん) hot spring
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+富士見屋
+{{< tdclose >}}
+{{< tdopen >}}
+(ふじみや) name of ryokan
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [竹田さんへのカード]({{< baseurl >}}/pages/lesson-21/card21b)
 

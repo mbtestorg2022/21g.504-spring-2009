@@ -23,20 +23,130 @@ uid: 3725c2c8-b87d-981e-668f-4b4079835dcd
 New Readings
 ------------
 
-| KANJI | READINGS |
-| --- | --- |
-| 無理 | (むり) |
-| 具合 | (ぐあい) |
-| 悪い | (わるい) |
-| 大切 | (たいせつ) |
-| 反対 | (はんたい) |
-| すこしずつ | little by little |
-| 有名 | (ゆうめい) |
-| しかし | however, but, on the other hand  {{< br >}}(more formal than でも) |
-| 値段 | (ねだん) |
-| 空港 | (くうこう) |
-| 顔 | (かお) |
-| 話し方 | (はなしかた), way of speaking 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+KANJI
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+無理
+{{< tdclose >}}
+{{< tdopen >}}
+(むり)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+具合
+{{< tdclose >}}
+{{< tdopen >}}
+(ぐあい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+悪い
+{{< tdclose >}}
+{{< tdopen >}}
+(わるい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+大切
+{{< tdclose >}}
+{{< tdopen >}}
+(たいせつ)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+反対
+{{< tdclose >}}
+{{< tdopen >}}
+(はんたい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+すこしずつ
+{{< tdclose >}}
+{{< tdopen >}}
+little by little
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+有名
+{{< tdclose >}}
+{{< tdopen >}}
+(ゆうめい)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+しかし
+{{< tdclose >}}
+{{< tdopen >}}
+however, but, on the other hand  
+(more formal than でも)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+値段
+{{< tdclose >}}
+{{< tdopen >}}
+(ねだん)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+空港
+{{< tdclose >}}
+{{< tdopen >}}
+(くうこう)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+顔
+{{< tdclose >}}
+{{< tdopen >}}
+(かお)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+話し方
+{{< tdclose >}}
+{{< tdopen >}}
+(はなしかた), way of speaking
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \[[Reading 22A]({{< baseurl >}}/pages/lesson-22/reading22a) | [Reading 22B]({{< baseurl >}}/pages/lesson-22/reading22b) | Supplemental\]
 
