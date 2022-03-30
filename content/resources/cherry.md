@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 resourcetype: Image
 title: cherry
 uid: 87ede862-0e64-a3b0-4bf9-8ec9b54aaa81

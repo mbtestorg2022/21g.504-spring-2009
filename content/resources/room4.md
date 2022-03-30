@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 resourcetype: Image
 title: room4
 uid: 8cdd1bb0-da18-1354-4b26-b85a9c46ef7f

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 resourcetype: Image
 title: Kanji12
 uid: 353dd0e3-4cfa-f368-9170-833453365017

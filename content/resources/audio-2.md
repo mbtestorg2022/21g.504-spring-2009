@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 resourcetype: Image
 title: audio
 uid: e31edd61-58cb-757e-46ad-e03676f790ea

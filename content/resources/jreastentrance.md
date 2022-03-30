@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 resourcetype: Image
 title: jrEastEntrance
 uid: 4bee233e-0307-3239-1702-03ddb0a435e0

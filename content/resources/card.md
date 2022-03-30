@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 resourcetype: Image
 title: card
 uid: 97bd6de9-1e56-0e81-ad27-28f961f409a3

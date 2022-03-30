@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 resourcetype: Image
 title: Kanji24
 uid: 5665b9c7-5bd8-cd51-43c0-970283f88e11

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 resourcetype: Image
 title: Kanji29
 uid: 13cead39-1408-b62e-d263-501e933cb1c9

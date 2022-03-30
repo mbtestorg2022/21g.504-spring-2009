@@ -161,13 +161,13 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![entrance1.jpg]({{< resource_file 6d661a36-5e4c-d995-3c08-c0420e7ac9a2 >}})![](/courses/foreign-languages-and-literatures/21g-504-japanese-iv-spring-2009/lesson-17/entrance1.jpg)]({{< baseurl >}}/resources/entrance1)
+[![entrance1.jpg]({{< resource_file 6d661a36-5e4c-d995-3c08-c0420e7ac9a2 >}}){{< resource "6d661a36-5e4c-d995-3c08-c0420e7ac9a2" >}}]({{< baseurl >}}/resources/entrance1)
 {{< tdclose >}}
 {{< tdopen >}}
 [![]({{< resource_file 8cdd1bb0-da18-1354-4b26-b85a9c46ef7f >}})![room4.jpg]({{< resource_file 8cdd1bb0-da18-1354-4b26-b85a9c46ef7f >}})]({{< baseurl >}}/resources/room4)
 {{< tdclose >}}
 {{< tdopen >}}
-[![niwa.jpg]({{< resource_file b5dde481-737a-a663-4e56-e5b696efd0a4 >}})![](/courses/foreign-languages-and-literatures/21g-504-japanese-iv-spring-2009/lesson-17/niwa.jpg)]({{< baseurl >}}/resources/niwa)
+[![niwa.jpg]({{< resource_file b5dde481-737a-a663-4e56-e5b696efd0a4 >}}){{< resource "b5dde481-737a-a663-4e56-e5b696efd0a4" >}}]({{< baseurl >}}/resources/niwa)
 {{< tdclose >}}
 
 {{< trclose >}}

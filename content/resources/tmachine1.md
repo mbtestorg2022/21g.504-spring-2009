@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 resourcetype: Image
 title: tMachine1
 uid: 8291c438-e4b3-9e36-ab0c-bfdfb3999a6e

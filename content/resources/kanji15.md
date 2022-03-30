@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 resourcetype: Image
 title: Kanji 15
 uid: 7e3abf1e-6ef2-7804-98d5-d5792cd2980f

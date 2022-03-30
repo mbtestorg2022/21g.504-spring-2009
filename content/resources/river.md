@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 resourcetype: Image
 title: river
 uid: f9783049-cf2e-c6ec-0557-d6145762f19c

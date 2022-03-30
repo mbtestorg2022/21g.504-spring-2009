@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 resourcetype: Image
 title: corgi
 uid: 9e76fbaf-25d2-7100-588b-3c6b6a83131f

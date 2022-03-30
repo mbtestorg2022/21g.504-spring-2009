@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 resourcetype: Image
 title: Kanji32
 uid: a4328107-bbb7-89d5-1eb6-a7f919644674
